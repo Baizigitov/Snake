@@ -10,9 +10,9 @@
  
 
 **Установка:**  
-1. Клонируйте репозиторий: `git clone https://github.com/ваш-ник/проект`  
+1. Клонируйте репозиторий: `git clone https://github.com/ваш-ник/проект`
 2. Установите зависимости: `pip install -r requirements.txt`  
-3. Запустите: `python main.py`  
+3. Запустите: `python Snake.py`  
 
 **Скриншоты:**  
 
